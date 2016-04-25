@@ -4,3 +4,6 @@ C:\Users\svc-student\Desktop\MathPhsx191-Lab09-CollisionMomentum\vhaskin1-MathPh
 C:\Users\svc-student\Desktop\MathPhsx191-Lab09-CollisionMomentum\vhaskin1-MathPhsx191-Lab09\vhaskin1-MathPhsx191-Lab09\obj\Debug\vhaskin1-MathPhsx191-Lab09.csprojResolveAssemblyReference.cache
 C:\Users\svc-student\Desktop\MathPhsx191-Lab09-CollisionMomentum\vhaskin1-MathPhsx191-Lab09\vhaskin1-MathPhsx191-Lab09\obj\Debug\vhaskin1-MathPhsx191-Lab09.exe
 C:\Users\svc-student\Desktop\MathPhsx191-Lab09-CollisionMomentum\vhaskin1-MathPhsx191-Lab09\vhaskin1-MathPhsx191-Lab09\obj\Debug\vhaskin1-MathPhsx191-Lab09.pdb
+C:\Users\Victor\Desktop\MathPhsx191-Lab09-CollisionMomentum\vhaskin1-MathPhsx191-Lab09\vhaskin1-MathPhsx191-Lab09\bin\Debug\vhaskin1-MathPhsx191-Lab09.exe.config
+C:\Users\Victor\Desktop\MathPhsx191-Lab09-CollisionMomentum\vhaskin1-MathPhsx191-Lab09\vhaskin1-MathPhsx191-Lab09\obj\Debug\vhaskin1-MathPhsx191-Lab09.exe
+C:\Users\Victor\Desktop\MathPhsx191-Lab09-CollisionMomentum\vhaskin1-MathPhsx191-Lab09\vhaskin1-MathPhsx191-Lab09\obj\Debug\vhaskin1-MathPhsx191-Lab09.pdb
